@@ -1,0 +1,13 @@
+{
+  "config": "BDXCCtJv1EDc9kjtLhi9u1mBAUZEDsKDJSnmtB6oQyUq",
+  "configFeeVault": "CwKJ22GahUScYc5m63gdtfyKLg8Hg8DuzBjwCBdprqv5",
+  "testMint": "72oTTXBcw9SziHNaSYCX22Mwqb29DwevxbZZxL6CyMZs",
+  "configDestinationVault": "CwKJ22GahUScYc5m63gdtfyKLg8Hg8DuzBjwCBdprqv5",
+  "configAllowedPaymentTokens": [
+    "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "JuprjznTrTSp2UFa3ZBUFgwdAmtZCq4MQCwysN55USD",
+    "72oTTXBcw9SziHNaSYCX22Mwqb29DwevxbZZxL6CyMZs"
+  ],
+  "newTestMint": "A9fwvZTZuNtcMQJBRQv1Nj9mZemmpTPeGjgqRSfxGxtM",
+  "newFeeVault": "CwKJ22GahUScYc5m63gdtfyKLg8Hg8DuzBjwCBdprqv5"
+}
