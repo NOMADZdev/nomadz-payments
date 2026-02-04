@@ -5,7 +5,7 @@ seeds = false
 skip-lint = false
 
 [programs.localnet]
-nomadz_payment = "24CMbBQkfGLNymVizFf4N2hrwyHNDFyJaXG4j6rnGWTm"
+nomadz_payment = "FBMUQfqb8m4p8gBYcxrL255UWa5rWmFv4qEf2BBngZcd"
 
 [registry]
 url = "https://api.apr.dev"

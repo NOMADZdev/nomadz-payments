@@ -8,7 +8,7 @@ pub mod utils;
 
 use instructions::*;
 
-declare_id!("24CMbBQkfGLNymVizFf4N2hrwyHNDFyJaXG4j6rnGWTm");
+declare_id!("FBMUQfqb8m4p8gBYcxrL255UWa5rWmFv4qEf2BBngZcd");
 
 #[program]
 pub mod nomadz_payment {

@@ -1,13 +1,13 @@
 {
-  "config": "BDXCCtJv1EDc9kjtLhi9u1mBAUZEDsKDJSnmtB6oQyUq",
+  "config": "EayePYZ2rVZju5MscEg19JTdXTeRqn9B9FkKA3zXVH93",
   "configFeeVault": "CwKJ22GahUScYc5m63gdtfyKLg8Hg8DuzBjwCBdprqv5",
-  "testMint": "72oTTXBcw9SziHNaSYCX22Mwqb29DwevxbZZxL6CyMZs",
+  "testMint": "9G3jprsWuqsmVNjkjvBjdjpERGvUJx55X2seGQE1yRFe",
   "configDestinationVault": "CwKJ22GahUScYc5m63gdtfyKLg8Hg8DuzBjwCBdprqv5",
   "configAllowedPaymentTokens": [
     "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
     "JuprjznTrTSp2UFa3ZBUFgwdAmtZCq4MQCwysN55USD",
-    "72oTTXBcw9SziHNaSYCX22Mwqb29DwevxbZZxL6CyMZs"
+    "9G3jprsWuqsmVNjkjvBjdjpERGvUJx55X2seGQE1yRFe"
   ],
-  "newTestMint": "A9fwvZTZuNtcMQJBRQv1Nj9mZemmpTPeGjgqRSfxGxtM",
+  "newTestMint": "B6NHfckA4TKfVaW9xoWaQS4hhBi1AtAJv8GLxTXikJfi",
   "newFeeVault": "CwKJ22GahUScYc5m63gdtfyKLg8Hg8DuzBjwCBdprqv5"
 }
